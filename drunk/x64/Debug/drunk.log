@@ -1,0 +1,13 @@
+﻿  Card_Deck_t.cpp
+C:\Users\KHV\source\repos\drunk\drunk\Card_Deck_t.cpp(46,79): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KHV\source\repos\drunk\drunk\Card_Deck_t.cpp(48,79): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  drunk.cpp
+  Game_Drunk_t.cpp
+C:\Users\KHV\source\repos\drunk\drunk\Game_Drunk_t.cpp(68,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KHV\source\repos\drunk\drunk\Game_Drunk_t.cpp(285,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KHV\source\repos\drunk\drunk\Game_Drunk_t.cpp(423,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Player_t.cpp
+C:\Users\KHV\source\repos\drunk\drunk\Player_t.cpp(13,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\KHV\source\repos\drunk\drunk\Player_t.cpp(53,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  drunk.vcxproj -> C:\Users\KHV\source\repos\drunk\x64\Debug\drunk.exe
